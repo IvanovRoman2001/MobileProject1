@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab21</string>
+    <string name="title">Локализованное приложение</string>
+    <string name="content">Привет, Мир!</string>
+</resources>
